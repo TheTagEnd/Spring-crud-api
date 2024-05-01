@@ -1,6 +1,6 @@
-## Spring CRUD Application
+## Spring CRUD Application with JPA
 
-Welcome to our Spring CRUD Application! This web application is built using the Spring framework, providing basic CRUD (Create, Read, Update, Delete) functionality for managing data. The application is designed to serve as a template for building more complex applications with features such as user authentication, data validation, and API integration.
+Welcome to our Spring CRUD Application with JPA (Java Persistence API)! This web application is built using the Spring framework, incorporating JPA for seamless integration with relational databases. It provides basic CRUD (Create, Read, Update, Delete) functionality for managing data entities, making it easy to build and maintain data-driven applications.
 
 🚀 **Features**
 - **Create:** Users can create new records by submitting data through forms or API endpoints.
@@ -22,7 +22,7 @@ Welcome to our Spring CRUD Application! This web application is built using the 
 - **Backend:**
   - Spring Framework - A robust framework for building Java-based applications.
   - Spring Boot - Simplifies the setup and configuration of Spring applications.
-  - Spring Data JPA - Provides easy integration with JPA (Java Persistence API) for database access.
+  - Spring Data JPA - Provides easy integration with JPA for database access.
   - Spring Security - Offers authentication and authorization capabilities for securing applications.
 - **Database:**
   - MySQL, PostgreSQL, or H2 Database - Various options for data storage, depending on requirements.
